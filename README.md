@@ -35,7 +35,7 @@ Well, it depends if you are looking for a high recall or a high precision. For e
 
 Here is an example on a (old) text: [ALI BABA AND THE FORTY THIEVES](http://textfiles.com/stories/ab40thv.txt).
 
-<img src='misc/img_2.png'/>
+<img src='assets/img_2.png'/>
 
 ## License
 
