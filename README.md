@@ -1,6 +1,6 @@
 # name-dataset
 
-> _A First and Last Name Dataset_
+> _A Global Exhaustive First and Last Name Database_
 
 <img src='assets/logo.png'/>
 
