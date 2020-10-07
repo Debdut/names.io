@@ -9,7 +9,7 @@
 - ~160k first names
 - ~100k last names
 - Find Names in Texts
-- Hiigh Precision / Recall
+- High Precision / Recall
 - Worldwide Names
 
 ## Installation
