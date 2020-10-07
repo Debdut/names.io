@@ -17,14 +17,12 @@
 npm install name-dataset
 ```
 
+The NPM package is not available yet, to be published shortly.
+
 ## Usage
 
 ```js
 const Names = require('name-dataset')
-```
-
-```
-echo -e "$(python main.py 'Brian is in the kitchen while Amanda is watching the TV on the sofa.\nThey are both waiting for Alfred to come.')"
 ```
 
 <img src='assets/img_1.png'/>
