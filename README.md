@@ -12,32 +12,9 @@
 - High Precision / Recall
 - Worldwide Names
 
-## Installation
-```
-npm install name-dataset
-```
-
-The NPM package is not available yet, to be published shortly.
-
-## Usage
-
-```js
-const Names = require('name-dataset')
-```
-
-<img src='assets/img_1.png'/>
-
-## How reliable is it?
-
-Well, it depends if you are looking for a high recall or a high precision. For example, the word Rose can be either a name or a noun. If we include it in the list, then we increase the precision but we decrease the recall. And vice versa, if it's not in the list. The library checks that the word starts with a capital letter. In our case, we emphasize more on precision. So I would say the best use case here is to check whether it's a name or not based on a prior knowledge that the customer has submitted a name.
-
-Here is an example on a (old) text: [ALI BABA AND THE FORTY THIEVES](http://textfiles.com/stories/ab40thv.txt).
-
-<img src='assets/img_2.png'/>
-
 ## Dataset Generation
 
-[generate.sh](name-dataset/blob/master/generation/generate.sh)
+[generate.sh](name-dataset/blob/master/generate/index.sh)
 
 - [listofrandomnames.com](http://listofrandomnames.com/index.cfm?generated)
 - [sajari.com 5000 Names around the Globe](https://www.sajari.com/public-data)
