@@ -1,4 +1,4 @@
-# name-dataset
+# names.io
 
 > _A Global Exhaustive First and Last Name Database_
 
