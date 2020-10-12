@@ -11,6 +11,7 @@
 - Find Names in Texts
 - High Precision / Recall
 - Worldwide Names
+- Multiple Languages
 
 ## Dataset Generation
 
